@@ -1,0 +1,5 @@
+print("Hitung Luas Ruangan")
+panjang = input("Masukkan panjang ruangan:  ")
+lebar   = input("Masukkan lebar ruangan:    ")
+satuan  = input("Masukkan satuan (Meter/Inci):  ")
+print("Luas ruangan dengan panjang", panjang, "dan lebar", lebar, "adalah", satuan)
